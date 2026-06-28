@@ -1,1 +1,2 @@
 added new features
+"This is a new feature"
